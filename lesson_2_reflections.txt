@@ -4,4 +4,5 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 	I guess it just means you have made the changes, but there are other files that still might need changes. I suppose that is the value it offers.
 
-	
+How can you use the staging area to make sure you have one commit per logical change?
+	You can use this to make sure you only stage files or things that have actually changed. You can leave the other files alone
