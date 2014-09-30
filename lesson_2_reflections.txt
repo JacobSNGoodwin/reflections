@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+	It creates a repository for the files in a given folder, which means you can now track changes in this folder/repository. I think you need to do this because you shouldn't keep everything under version control.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	I guess it just means you have made the changes, but there are other files that still might need changes. I suppose that is the value it offers.
+
+	
