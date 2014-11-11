@@ -13,3 +13,7 @@ Forks are taking a copy of a branch of somebody's public commit on gitHub. A clo
 What is the benefit of having a copy of the last known state of the remote stored locally?
 -------------
 Helps with knowing if you need to merge or not I suppose.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+---------
+Without GitHub I would make a massive room full of cubicles!!!! And folks would just have to talk to each other. Heck, it'd save them the 15-20 hours that I had to spend taking this course!
