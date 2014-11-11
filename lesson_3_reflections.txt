@@ -9,3 +9,7 @@ This gives a user more control over the point at which he or she wants to modify
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 ------
 Forks are taking a copy of a branch of somebody's public commit on gitHub. A clone is a copy of a local repository. A branch is a line of commits for a repository.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+-------------
+Helps with knowing if you need to merge or not I suppose.
