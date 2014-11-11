@@ -6,3 +6,15 @@ How is the staging area different from the working directory and the repository?
 
 How can you use the staging area to make sure you have one commit per logical change?
 	You can use this to make sure you only stage files or things that have actually changed. You can leave the other files alone
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	I see lots of work that's done on photo sliders, for example. But I might want a different background color, or I might want to make the code such that it works with some javascript or short codes in a web page.
+
+How do the diagrams help you visualize the branch structure?
+	It basically just helps you to see where different versions of the docments have been revised and or merged. This is also helpful to allow people to try to make more extreme changes without fear of messing up the core functionality of the software.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	It's to retain all common info since the branches split plus what has been included since/subtracted since. The it displayed precisely to show this.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	I suppose a pro is that if there are several one line additions, the automatic code might be good. The bad news is if those little one line additions start breaking the code.
