@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+I would want to do this maybe for a couple of reasons. The first is that it would make collaborating on a bit of code much easier. Another reason would be to make a copy of certain branches or committs available to the public.
